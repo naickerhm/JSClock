@@ -1,0 +1,18 @@
+.clock {
+    background: #777;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    border-radius:  20px;
+}
+
+.time,
+.time-period {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: #ddd;
+}
+
+.time {
+    font-size: 50px;
+}
